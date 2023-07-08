@@ -3,3 +3,5 @@ Simple game in old (saper )written in js, html, css with use tabels and basicly 
 
 demo:
 https://marcinrataj.github.io/saper_game/
+
+I recommend resolution x200%, x300%
